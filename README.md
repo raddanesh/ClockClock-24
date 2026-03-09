@@ -8,6 +8,11 @@ The [LPC845 breakout](https://www.nxp.com/design/design-center/development-board
 
 This breakout board can be used with a range of development tools, including the MCUXpresso IDE toolchain. The LPCXpresso845 Breakout board is developed by NXP to enable evaluation of and prototyping with the LPC84x family of MCUs.
 
+<p align="center">
+  <img src="/PCB/images/LPC845-BRK-1.png" alt="LPC845-BRK-1" width="45%" />
+  <img src="/PCB/images/LPC845-BRK-BD2.png" alt="LPC845-BRK-2" width="45%" />
+</p>
+
 The LPC845 breakout board features an on-board CMSIS-DAP debug and VCOM port, RGB user LEDs, capacitive touch button, user potentiometer and allows an easy prototyping experience with access to 38 LPC845 port pins.
 
 The role selection is controlled through `PL_CONFIG_IS_MASTER` in `platform.h`:
